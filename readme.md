@@ -1,5 +1,5 @@
 ## **Laravel School Management System** 
-**This is cloned project from <a href="[github.com/4jean/lav_sms](https://github.com/4jean/lav_sms.git)">lav_sms</a>**
+**This is cloned project from <a href="https://github.com/4jean/lav_sms.git">lav_sms</a>**
 **LAVSMS** is developed for educational institutions like schools and colleges built on Laravel 8
 
 ### SCREENSHOTS
